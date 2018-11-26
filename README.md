@@ -16,3 +16,8 @@ FOR THIS FOLLOW THE FOLLOWING STEPS
 
 This Will Work If One Host 'A' Is Within Range Of 'B' 
 And B is Within Range Of 'C' then A can Send Message To C directly
+
+
+Other >.c 
+1:Programs Are for Creating Adhoc Network
+2:Finding Online status of Nodes(Both ways i.e using ARP_SCAN and My own created Scanner)
